@@ -15,7 +15,7 @@ def calculate(operation, num1, num2):
             return "Error! Division by zero."
 
 # Streamlit app layout
-st.title("Simple Calculator")
+st.title("Absar First AI App as Simple Calculator")
 
 # Input fields for numbers
 num1 = st.number_input("Enter first number", value=0)
